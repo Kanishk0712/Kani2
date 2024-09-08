@@ -1,0 +1,83 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1,
+ul {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+li {
+    color: grey;
+    display: inline;
+    cursor: pointer;
+}
+
+li:hover {
+    color: white;
+}
+
+ul {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+img {
+    width: 220px;
+    height: 220px;
+
+}
+
+.box {
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 220px;
+}
+
+.menu {
+    text-align: center;
+    padding: 20px;
+}
+
+h4 {
+    background-color: black;
+    color: white;
+    display: inline;
+    padding: 2px;
+    margin-top: 5px;
+    text-align: center;
+}
+
+form {
+    background-color: black;
+    color: white;
+}
+
+table {
+    margin-left: 41%;
+}
+
+h3 {
+    display: inline-block;
+    width: 500px;
+    margin-left: 32%;
+    background-color: yellow;
+    color: black;
+
+    padding: 10px;
+}
+
+.contact {
+    background-color: black;
+    color: white;
+    height: 200px;
+}
